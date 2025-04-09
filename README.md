@@ -1,4 +1,4 @@
-
+# HeartSync Music Player 🎵❤️
 **HeartSync** is an intelligent music playback system that dynamically recommends different styles of music that match the user's mood/exercise state by monitoring the user's heart rate and heart rate variability (HRV) in real time. The front end provides an elegant player interface, and the back end implements biofeedback-driven playback based on Bluetooth heart rate devices.
 
 ## Main features ✨
